@@ -3,8 +3,8 @@
   "directory": "/Users/ykang/Repos/pybind11",
   "arguments": [
    "c++",
-   "-O0",
    "-g",
+   "-O0",
    "-Wall",
    "-shared",
    "-std=c++11",
