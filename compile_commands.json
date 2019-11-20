@@ -1,0 +1,21 @@
+[
+ {
+  "directory": "/Users/ykang/Repos/pybind11",
+  "arguments": [
+   "c++",
+   "-O0",
+   "-g",
+   "-Wall",
+   "-shared",
+   "-std=c++11",
+   "-undefined",
+   "dynamic_lookup",
+   "-I/Users/ykang/env3/include/python3.7m",
+   "-I/Users/ykang/env3/bin/../include/site/python3.7",
+   "example.cpp",
+   "-o",
+   "example.cpython-37m-darwin.so"
+  ],
+  "file": "example.cpp"
+ }
+]
